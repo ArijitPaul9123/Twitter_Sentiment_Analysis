@@ -1,31 +1,23 @@
 # Twitter Sentiment Analysis using Logistic Regression
 
-This project performs sentiment analysis on tweets using machine learning (Logistic Regression). It classifies tweets as **positive** or **negative** based on their textual content.
+This project analyzes tweets to determine their **sentiment (positive or negative)** using machine learning. Built using the [Sentiment140 dataset](https://www.kaggle.com/datasets/kazanova/sentiment140), it includes data preprocessing, feature engineering, vectorization with TF-IDF, and a Logistic Regression classifier.
 
----
 
-## 🚀 Features
+🔍 Project Highlights
 
-- Data cleaning and preprocessing
-- TF-IDF vectorization of tweets
-- Sentiment classification using Logistic Regression
-- Evaluation using accuracy and classification report
-- Trained model saved as `.sav` file
+- Analyzed **1.6 million tweets**
+- Cleaned data by removing URLs, mentions, hashtags, punctuation, and stopwords
+- Applied **TF-IDF vectorization (5000 features)**
+- Trained a **Logistic Regression model**
+- Achieved ~**79% accuracy** on training and test data
+- Exported trained model as `trained_model.sav`
 
----
+ 
+🧠 Tech Stack
+Language: Python
+Libraries: pandas, numpy, sklearn, nltk, re, pickle
+Tools: Jupyter Notebook, Git
+Model: Logistic Regression
 
-## 🧠 Tech Stack
-
-- Python
-- Scikit-learn
-- Pandas
-- NumPy
-- Matplotlib
-- Jupyter Notebook
-
----
-You can download it from:
-
-🔗 Kaggle - https://www.kaggle.com/datasets/kazanova/sentiment140
 
 
