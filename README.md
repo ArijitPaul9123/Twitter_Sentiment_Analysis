@@ -1,4 +1,4 @@
-# 🐦 Twitter Sentiment Analysis using Logistic Regression
+# Twitter Sentiment Analysis using Logistic Regression
 
 This project performs sentiment analysis on tweets using machine learning (Logistic Regression). It classifies tweets as **positive** or **negative** based on their textual content.
 
