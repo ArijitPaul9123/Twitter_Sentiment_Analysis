@@ -24,12 +24,8 @@ This project performs sentiment analysis on tweets using machine learning (Logis
 - Jupyter Notebook
 
 ---
+You can download it from:
 
-## 📁 Project Structure
+🔗 Kaggle - https://www.kaggle.com/datasets/kazanova/sentiment140
 
-```bash
-Twitter_Sentiment_Analysis/
-├── twitter.ipynb                # Jupyter notebook with full analysis
-├── trained_model.sav            # Trained Logistic Regression model
-├── .gitignore                   # Ignoring large files like .csv
-└── README.md                    # Project overview
+
